@@ -1,0 +1,6 @@
+logs/
+running/*
+!running/.gitkeep
+.wake_state
+STOP
+__pycache__/
